@@ -1,2 +1,9 @@
-# notimpl_from_fcr
-This feature is not implemented
+# Executes commands:
+
+go get ./...
+
+go run main.com
+
+curl -v localhost:8080/ajaxify
+
+# Enjoy
