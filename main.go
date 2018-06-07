@@ -1,4 +1,4 @@
-package main
+package main //author: fcordier
 
 import "github.com/gin-gonic/gin"
 
